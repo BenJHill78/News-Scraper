@@ -1,0 +1,12 @@
+    #newsAndNotes {
+        width: 25%;
+        padding-top: 10%;
+      } 
+
+    #news {
+        overflow: auto;
+        width: 75%;
+        padding-top: 10%
+      }
+
+ 
